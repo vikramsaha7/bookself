@@ -1,5 +1,5 @@
 # bookself
-This web application will help book lovers to rate any book
+This web application will help book lovers to rate any book and find top rated books
 ## Features
 - signup-signin-signout
 - add review
