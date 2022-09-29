@@ -1,4 +1,4 @@
-# bookself
+# bookshelf
 This web application will help book lovers to rate any book and find top rated books
 ## Features
 - signup-signin-signout
